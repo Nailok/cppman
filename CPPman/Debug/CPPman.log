@@ -1,0 +1,8 @@
+﻿  GameStart.cpp
+c:\users\lexitor\source\repos\cppman\cppman\variables.h(42): warning C4091: extern : пропускается слева от "queueNode", когда ни одна переменная не объявлена
+c:\users\lexitor\source\repos\cppman\cppman\variables.h(43): warning C4091: extern : пропускается слева от "Point", когда ни одна переменная не объявлена
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Main.cpp
+  CPPman.vcxproj -> C:\Users\Lexitor\source\repos\CPPman\Debug\CPPman.exe
+  CPPman.vcxproj -> C:\Users\Lexitor\source\repos\CPPman\Debug\CPPman.pdb (Partial PDB)
